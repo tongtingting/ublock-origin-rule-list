@@ -1,6 +1,6 @@
 # ublock-origin-rule-list
 
-😈😈👻👻可清除 爱奇艺，优酷，芒果TV，YouTube，哔哩哔哩，百度贴吧，Acfun，斗鱼，等等等各大网站的广告
+😈可清除 爱奇艺，优酷，芒果TV，YouTube，哔哩哔哩，百度贴吧，Acfun，斗鱼，等等等各大网站的广告
 
 ## 操作指南
 👹首先你要有一个 [Chrome浏览器](https://www.google.com/intl/zh-CN/chrome/)
